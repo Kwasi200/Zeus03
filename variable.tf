@@ -134,18 +134,6 @@ variable "secret_key" {
 
 #please delete the below script on your necxt edit 
 
-variable "username"{
-  description = "db login username"
-  default     = "admin"
 
-  type        = string
-}
-
-
-variable "password" {
-  description  = "db password"
-  default      = "lolofuentes"
-  type         = string
-}
 
  

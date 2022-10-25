@@ -89,7 +89,6 @@ public-sub2 = "10.0.102.0/24"
 priv-sub1   = "10.0.103.0/24"
 priv-sub2   = "10.0.104.0/24"
 
-access_key  = "AKIATCPYFB5ZDB5UTQAV"
-secret_key  = "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"
+
 
 # database details
