@@ -115,3 +115,18 @@ variable "parameter_group_name" {
      default    = "default.mysql5.7"
      type       = string
 }
+
+variable "access_key" {
+  description = "authentication code, yes don't trust these keys"
+  default     = "AKIATCPYFB5ZDB5U"
+
+  type = string
+
+}
+
+variable "secret_key" {
+  description = "don't trust these keys"
+  default     = "lkGV/iWaKFqfQO7fC/UgZd5Fr7bVWTo"
+
+  type = string
+}
